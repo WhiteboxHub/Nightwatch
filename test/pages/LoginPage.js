@@ -1,3 +1,4 @@
+
 var locators = require('../locators.json');
 var timeOut = locators.globals.waitForConditionTimeout;
 function LoginPage(browser) {

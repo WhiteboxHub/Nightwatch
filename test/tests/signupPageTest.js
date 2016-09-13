@@ -1,3 +1,4 @@
+
 var SignupPage = require('../pages/SignupPage.js');
 var LoginPage = require('../pages/LoginPage.js');
 var signup;

@@ -30,7 +30,8 @@
         "desiredCapabilities": {
           "browserName": "internet explorer",
           "javascriptEnabled": true,
-          "acceptSslCerts": true
+          "acceptSslCerts": true,
+          "handlesAlerts":true
         }
       }
     }

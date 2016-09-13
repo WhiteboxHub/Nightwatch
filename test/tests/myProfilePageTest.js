@@ -1,3 +1,4 @@
+
 var MyProfile = require('../pages/MyProfile.js');
 var LoginPage = require('../pages/LoginPage.js');
 var login;
