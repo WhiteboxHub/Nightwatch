@@ -13,7 +13,7 @@
   },
   "scripts": {
     "preinstall": "npm install nightwatch -g",
-    "test": "node -e \"require('grunt').tasks(['nightwatch']);\"
+    "test": ""
   },
   "author": "Innovapath",
   "license": "ISC"
